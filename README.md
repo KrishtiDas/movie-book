@@ -29,6 +29,7 @@ cd movie-book
 
 Install dependencies:
 npm install
+
 Run the development server:
 npm start
 
