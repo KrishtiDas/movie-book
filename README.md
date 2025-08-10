@@ -3,14 +3,20 @@ A React-based web application for browsing movies, viewing details, and booking 
 
 🚀 Features
 Browse the latest movies with posters and descriptions
+
 View show timings and movie details
+
 Select seats and book tickets
+
 Responsive design for mobile and desktop
+
 Smooth navigation with React Router
 
 🛠 Tech Stack
 Frontend: React, React Router, Redux Toolkit
+
 UI Components: Material UI, Emotion
+
 State Management: Redux Toolkit
 
 API Requests: Axios
@@ -18,6 +24,7 @@ API Requests: Axios
 📦 Installation & Setup
 Clone the repository:
 git clone https://github.com/your-username/movie-book
+
 cd movie-book
 
 Install dependencies:
