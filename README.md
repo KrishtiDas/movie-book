@@ -1,5 +1,6 @@
 🎬 Movie Show Booking Application
 A React-based web application for browsing movies, viewing details, and booking show tickets — built with React, Redux, and Material UI.
+THE VIDEO PREVIEW : https://drive.google.com/file/d/1Gu3YmtNNWKsL4UUI4LYqGI3UGAVOnRUu/view?usp=drive_link
 
 🚀 Features
 Browse the latest movies with posters and descriptions
@@ -39,4 +40,5 @@ npm run build
 📌 Notes
 This app uses a sample movie API; you can replace it with any movie/show API of your choice.
 Make sure to configure your API keys in a .env file if required.
+
 
